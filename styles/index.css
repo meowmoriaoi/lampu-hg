@@ -1,0 +1,89 @@
+body {
+  background: #eeeeee;
+}
+
+header {
+  max-width: 960px;
+}
+
+header .bg {
+  background: #dff8d5;
+  color: #404a3c;
+  border-color: #0b7908;
+}
+
+header img {
+  max-width: 750px;
+}
+
+.btn {
+  background: #59b548;
+}
+
+.btn:hover {
+  background: #0b7908;
+}
+
+article {
+  background: #d9d9d9;
+  border-color: #f0616f;
+}
+
+article h1 {
+  color: #2b2b2b;
+}
+
+article h2 {
+  color: #e60808;
+}
+
+article p {
+  color: #525252;
+}
+
+article .grs {
+  border-color: #2b2b2b;
+}
+
+main .br {
+  border-color: #00a6fd;
+}
+
+main .br h1 {
+  color: #12394a;
+}
+
+main .br .grs {
+  border-color: #12394a;
+}
+
+main .br li {
+  color: #274c5d;
+  border-color: #608396;
+}
+
+.spec .br {
+  border-color: #ff8c5c;
+}
+
+.spec h1 {
+  color: #372c11;
+}
+
+.spec .grs {
+  border-color: #372c11;
+}
+
+.spec li {
+  color: #655739;
+  border-color: #685a3c;
+}
+
+.prcmrh {
+  color: #ff0000;
+}
+
+.prchj {
+  color: #21e807;
+}
+/*# sourceMappingURL=index.css.map */
